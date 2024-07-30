@@ -38,7 +38,11 @@ Este é um aplicativo de lista de tarefas com funcionalidades adicionais de reco
 
 ## Capturas de Tela
 
-![Screenshot](./assets/tela.png)
+![Tela Home](./assets/images/home.png)
+
+![Tela Registro das Tarefas](./assets/images/registro.png)
+
+![Tela Rewards](./assets/images/rewards.png)
 
 ## Configuração do Projeto
 
